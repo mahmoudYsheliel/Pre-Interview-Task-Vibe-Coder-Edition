@@ -27,3 +27,8 @@ npm run dev
 ```sh
 npm run build
 ```
+
+
+https://drive.google.com/file/d/1a13VJ2St_Xzik2MI7AizC46xdCbyNbWo/view?usp=drive_link
+
+[_Pre-Interview Task Questions.pdf](https://github.com/user-attachments/files/19639452/_Pre-Interview.Task.Questions.pdf)
